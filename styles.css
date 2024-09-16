@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://th.bing.com/th/id/R.b78639182048dec2e2e9e9b609716b91?rik=pwJe%2bDjXBtQCYQ&riu=http%3a%2f%2fprintablegraphics.in%2fwp-content%2fuploads%2f2018%2f01%2fHtml-background-image.jpg&ehk=CsYXoBIMZX%2fVmcu%2fpE8%2fpXsvklB9KzeoOlduB6co9Mc%3d&risl=&pid=ImgRaw&r=0');
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.clock {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.format-toggle {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    margin-top: 10px;
+   
+}
+
